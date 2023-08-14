@@ -8,7 +8,7 @@ I love Learning, Programming and Communicating
 <br><br>
 
 ### 📚 Education
-- **Artificial Intelligence・Computer Science and Engineering** at **Handong Global University** (2020.03 ~ ing) <br>
+- 🇰🇷 **Artificial Intelligence・Computer Science and Engineering** at **Handong Global University** (2020.03 ~ ing) <br>
 
 
 ### 🙋🏻‍♀️ Experiences
