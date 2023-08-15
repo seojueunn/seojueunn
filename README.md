@@ -4,8 +4,9 @@
 
 I am ✨ Jueun Seo ✨ <br>
 My major is Computer Science <br>
-I love Learning, Programming and Communicating
-<br><br>
+I love Learning, Programming and Communicating <br>
+I am interested in Technology / Research for People <br>
+<br>
 
 ### 📚 Education
 - 🇰🇷 **Artificial Intelligence・Computer Science and Engineering** at **Handong Global University** (2020.03 ~ ing) <br>
