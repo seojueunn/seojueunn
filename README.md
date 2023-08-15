@@ -29,8 +29,9 @@ I love Learning, Programming and Communicating
 - **Automatic Evaluation System for Object-Oriented Programs**, in Proceedings of Korea Computer Congress (KCC2022) <br>
 - **Survey on Intelligent Tutoring System for Programming Education**, in Proceedings of Korea Conference on Software Engineering (KCSE2023) <br>
 
-
+<!--
 ### 🏆 Awards
 - **KCC2022 학부생/주니어논문경진대회 학부생부문 우수상** at Korea Computer Congress
 - **2023 캡스톤 페스티벌 ‘캡스톤디자인’ 부문 최우수상** at Handong Global University
 - **2023-TOPCIT 상반기 정기평가 장려상** at Handong Global University
+-->
