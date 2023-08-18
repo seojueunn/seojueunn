@@ -5,7 +5,7 @@
 I am ✨ Jueun Seo ✨ <br>
 My major is Computer Science <br>
 I love Learning, Programming and Communicating <br>
-I am interested in Technology / Research for People <br>
+I am interested in Technology / Research for Human <br>
 <br>
 
 ### 📚 Education
