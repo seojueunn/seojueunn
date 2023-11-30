@@ -9,7 +9,7 @@ I am interested in Technology / Research for Human <br>
 <br>
 
 ### 📚 Education
-- 🇰🇷 **Artificial Intelligence・Computer Science and Engineering** at **Handong Global University** (2020.03 ~ ing) <br>
+- 🇰🇷 **B.S. in Artificial Intelligence・Computer Science and Engineering** at **Handong Global University** (2020.03 ~ ing) <br>
 
 
 ### 🙋🏻‍♀️ Experiences
