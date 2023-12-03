@@ -25,7 +25,7 @@ I am interested in Technology / Research for Human <br>
 ### 👩🏻‍💻 Projects
 - 🔎 **jChecker 2.0**: Intelligent Tutoring System for Java Programming [[Page](http://isel.lifove.net/jchecker2.0)] <br>
 - 🌦️ **YIJUEUN**: Mobile application that lets you share your diary with your loved ones [[GitHub](https://github.com/seojueunn/YIJUEUN.git)] <br>
-- 💯 **jChecker** (system maintenance & analysis): OOP-based Java program scoring service through static analysis [[Page](http://isel.lifove.net/jchecker)] <br>
+- 💯 **jChecker** (role of system maintenance & analysis): OOP-based Java program scoring service through static analysis [[Page](http://isel.lifove.net/jchecker)] <br>
 
 
 ### 📑 Papers
