@@ -1,4 +1,4 @@
-## This is Jueun's Github 🌱
+## This is Jueun's Github 🪴
 
 ### Hi there 👋🏻
 
