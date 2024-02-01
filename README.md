@@ -14,13 +14,17 @@ I am interested in Technology / Research for Human <br>
 
 
 ### 🙋🏻‍♀️ Experiences
+- **`Master’s Student`** of **Algorithms Lab** at POSTECH (2024.02 ~ ing) <br>
+- **`Undergraduate Research Student`** of **Intelligent Software Engineering Lab** at Handong Global University (2021.06 ~ 2023.06) <br>
+
+
+### 👩🏻‍🏫 Teaching Experiences
 - **Computer Architecture and Organization Class** in Handong Global University **`Teaching Assistant`** (2023.09 ~ 2023.12) <br>
 - **Algorithm Analysis Class** in Handong Global University **`Teaching Assistant`** (2023.03 ~ 2023.06) <br>
 - **Java Programming Class** in Handong Global University **`Teaching Assistant`** (2023.03 ~ 2023.06) <br>
 - **Computer Architecture and Organization Class** in Handong Global University **`Teaching Assistant`** (2022.09 ~ 2022.12) <br>
 - **Java Programming Class** in Handong Global University **`Teaching Assistant`** (2022.03 ~ 2022.06) <br>
 - **Python Programming Class** in Handong Global University **`Teaching Assistant`** (2021.09 ~ 2021.12) <br>
-- **`Undergraduate Research Student`** of **Intelligent Software Engineering Lab** at Handong Global University (2021.06 ~ 2023.06) <br>
 
 
 ### 👩🏻‍💻 Projects
