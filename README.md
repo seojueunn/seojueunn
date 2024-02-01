@@ -9,12 +9,12 @@ I am interested in Technology / Research for Human <br>
 <br>
 
 ### 📚 Education
-- 🇰🇷 **M.S. in Computer Science and Engineering** at **POSTECH** (2024.02 ~ ing) <br>
+- 🇰🇷 **M.S. in Computer Science and Engineering** at **POSTECH** (2024.01 ~ ing) <br>
 - 🇰🇷 **B.S. in Artificial Intelligence・Computer Science and Engineering** at **Handong Global University** (2020.03 ~ 2024.02) <br>
 
 
 ### 🙋🏻‍♀️ Experiences
-- **`Master’s Student`** of **Algorithms Lab** at POSTECH (2024.02 ~ ing) <br>
+- **`Master’s Student`** of **Algorithms Lab** at POSTECH (2024.01 ~ ing) <br>
 - **`Undergraduate Research Student`** of **Intelligent Software Engineering Lab** at Handong Global University (2021.06 ~ 2023.06) <br>
 
 
