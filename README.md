@@ -15,7 +15,7 @@ I am interested in Technology / Research for Human <br>
 
 ### 🙋🏻‍♀️ Experiences
 - **`Master’s Student`** of **Algorithms Lab** at POSTECH (2024.01 ~ ing) <br>
-- **`Undergraduate Research Student`** of **Intelligent Software Engineering Lab** at Handong Global University (2021.06 ~ 2023.06) <br>
+- **`Undergraduate Research Student`** of **Intelligent Software Engineering Lab** at HGU (2021.06 ~ 2023.06) <br>
 
 
 ### 👩🏻‍🏫 Teaching Experiences
