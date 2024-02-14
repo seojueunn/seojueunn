@@ -22,7 +22,7 @@ I am interested in Technology / Research for Human <br>
 - **Computer Architecture and Organization Class** in HGU **`Teaching Assistant`** (2023.09 ~ 2023.12) <br>
 - **Algorithm Analysis Class** in HGU **`Teaching Assistant`** (2023.03 ~ 2023.06) <br>
 - **Java Programming Class** in HGU **`Teaching Assistant`** (2023.03 ~ 2023.06) <br>
-- **Computer Architecture and Organization Class** in HGU **`Teaching Assistant`** (2022.09 ~ 2022.12) <br>
+- **Computer Architecture Class** in HGU **`Teaching Assistant`** (2022.09 ~ 2022.12) <br>
 - **Java Programming Class** in HGU **`Teaching Assistant`** (2022.03 ~ 2022.06) <br>
 - **Python Programming Class** in HGU **`Teaching Assistant`** (2021.09 ~ 2021.12) <br>
 
