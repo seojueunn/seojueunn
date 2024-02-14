@@ -19,7 +19,7 @@ I am interested in Technology / Research for Human <br>
 
 
 ### 👩🏻‍🏫 Teaching Experiences
-- **Computer Architecture and Organization Class** in HGU **`Teaching Assistant`** (2023.09 ~ 2023.12) <br>
+- **Computer Architecture Class** in HGU **`Teaching Assistant`** (2023.09 ~ 2023.12) <br>
 - **Algorithm Analysis Class** in HGU **`Teaching Assistant`** (2023.03 ~ 2023.06) <br>
 - **Java Programming Class** in HGU **`Teaching Assistant`** (2023.03 ~ 2023.06) <br>
 - **Computer Architecture Class** in HGU **`Teaching Assistant`** (2022.09 ~ 2022.12) <br>
