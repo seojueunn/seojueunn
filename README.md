@@ -8,6 +8,10 @@ I love Learning, Programming and Communicating <br>
 I am interested in Technology / Research for Human <br>
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seojueunn&layout=compact&theme=tokyonight)
+
+<br>
+
 ### 📚 Education
 - 🇰🇷 **M.S. in Computer Science and Engineering** at **POSTECH** (2024.01 ~ ing) <br>
 - 🇰🇷 **B.S. in Artificial Intelligence・Computer Science and Engineering** at **Handong Global University** (2020.03 ~ 2024.02) <br>
