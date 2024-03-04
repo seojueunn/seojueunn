@@ -38,8 +38,8 @@ I am interested in Technology / Research for Human <br>
 
 
 ### 📑 Papers
-- **Survey on Intelligent Tutoring System for Programming Education**, in Proceedings of Korea Conference on Software Engineering (KCSE2023) <br>
-- **Automatic Evaluation System for Object-Oriented Programs**, in Proceedings of Korea Computer Congress (KCC2022) <br>
+- **Survey on Intelligent Tutoring System for Programming Education**, in Proceedings of Korea Conference on Software Engineering (KCSE2023) [[Page](https://seojueunn.github.io/research-ipt-survey/)] <br>
+- **Automatic Evaluation System for Object-Oriented Programs**, in Proceedings of Korea Computer Congress (KCC2022) [[Page](https://seojueunn.github.io/research-jchecker1.0/)] <br>
 
 <!--
 ### 🏆 Awards
