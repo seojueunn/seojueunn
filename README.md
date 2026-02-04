@@ -8,7 +8,7 @@ I love Learning, Programming and Communicating <br>
 I am interested in Technology / Research for Human <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seojueunn&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seojueunn&layout=compact)
 
 <br>
 
