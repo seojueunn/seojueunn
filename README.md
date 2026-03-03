@@ -13,23 +13,24 @@ I am interested in Technology / Research for Human <br>
 <br>
 
 ### 📚 Education
-- 🇰🇷 **M.S. in Computer Science and Engineering** at **POSTECH** (2024.01 ~ ing) <br>
-- 🇰🇷 **B.S. in Artificial Intelligence・Computer Science and Engineering** at **Handong Global University** (2020.03 ~ 2024.02) <br>
+- 🇰🇷 **Integrated M.S./Ph.D. in Computer Science and Engineering**, **POSTECH** (Mar 2026 – Present) <br>
+- 🇰🇷 **M.S. in Computer Science and Engineering**, **POSTECH** (Mar 2024 – Feb 2026) <br>
+- 🇰🇷 **B.S. in Artificial Intelligence・Computer Science and Engineering**, **Handong Global University** (Mar 2020 – Feb 2024) <br>
 
 
-### 🙋🏻‍♀️ Experiences
-- **`Integrated M.S./Ph.D.`** of **Algorithms Lab** at POSTECH (2026.03 ~ ing) <br>
-- **`Master’s Student`** of **Algorithms Lab** at POSTECH (2024.01 ~ 2026.02) <br>
-- **`Undergraduate Research Student`** of **Intelligent Software Engineering Lab** at HGU (2021.06 ~ 2023.06) <br>
+### 🙋🏻‍♀️ Experience
+- **`Ph.D. Student`**, **Algorithms Lab**, POSTECH (Mar 2026 – Present) <br>
+- **`Master’s Student`**, **Algorithms Lab**, POSTECH (Jan 2024 – Feb 2026) <br>
+- **`Undergraduate Research Student`**, **Intelligent Software Engineering Lab**, HGU (Jun 2021 – Jun 2023) <br>
 
 
-### 👩🏻‍🏫 Teaching Experiences
-- **Computer Architecture Class** in HGU **`Teaching Assistant`** (2023.09 ~ 2023.12) <br>
-- **Algorithm Analysis Class** in HGU **`Teaching Assistant`** (2023.03 ~ 2023.06) <br>
-- **Java Programming Class** in HGU **`Teaching Assistant`** (2023.03 ~ 2023.06) <br>
-- **Computer Architecture Class** in HGU **`Teaching Assistant`** (2022.09 ~ 2022.12) <br>
-- **Java Programming Class** in HGU **`Teaching Assistant`** (2022.03 ~ 2022.06) <br>
-- **Python Programming Class** in HGU **`Teaching Assistant`** (2021.09 ~ 2021.12) <br>
+### 👩🏻‍🏫 Teaching Experience
+- **Computer Architecture Class** in HGU **`Teaching Assistant`** (Sep 2023 – Dec 2023) <br>
+- **Algorithm Analysis Class** in HGU **`Teaching Assistant`** (Mar 2023 – Jun 2023) <br>
+- **Java Programming Class** in HGU **`Teaching Assistant`** (Mar 2023 – Jun 2023) <br>
+- **Computer Architecture Class** in HGU **`Teaching Assistant`** (Sep 2022 – Dec 2022) <br>
+- **Java Programming Class** in HGU **`Teaching Assistant`** (Mar 2022 – Jun 2022) <br>
+- **Python Programming Class** in HGU **`Teaching Assistant`** (Sep 2021 – Dec 2021) <br>
 
 
 ### 👩🏻‍💻 Projects
