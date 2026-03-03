@@ -18,7 +18,8 @@ I am interested in Technology / Research for Human <br>
 
 
 ### 🙋🏻‍♀️ Experiences
-- **`Master’s Student`** of **Algorithms Lab** at POSTECH (2024.01 ~ ing) <br>
+- **Integrated M.S./Ph.D.** of **Algorithms Lab** at POSTECH (2026.03 ~ ing) <br>
+- **`Master’s Student`** of **Algorithms Lab** at POSTECH (2024.01 ~ 2026.02) <br>
 - **`Undergraduate Research Student`** of **Intelligent Software Engineering Lab** at HGU (2021.06 ~ 2023.06) <br>
 
 
